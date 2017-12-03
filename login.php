@@ -33,7 +33,7 @@
 						<div class="panel-body">
 							<form action="checklogin.php" method="post" role="form" class="login" >
 								<div class="form-group">
-									<label for="exampleInputEmail1">Username or Email</label>
+									<label for="exampleInputEmail1">Username or Email ;</label>
 									<input type="email" class="form-control" id="exampleInputEmail1" name="email" placeholder="Enter email" type="text">
 								</div>
 								<div class="form-group">
